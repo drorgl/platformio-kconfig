@@ -1,0 +1,6 @@
+.pio
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/settings.json
+.vscode/arduino.json
+include/custom_config.config.old

@@ -1,0 +1,10 @@
+mainmenu "Sample configurable project using Kconfig"
+
+config FOO
+    bool "Foo module"
+    help
+        The infamous Foo module
+config BAR
+    string "Bar Value"
+    help
+        The Bar Value
